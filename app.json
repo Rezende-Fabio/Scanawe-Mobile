@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Scanawe",
+    "slug": "Scanawe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
